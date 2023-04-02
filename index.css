@@ -21,7 +21,7 @@ body{
     max-width: 310px;
     background-color: #22252D;
     height: fit-content;
-    border-radius: 9px;
+    border-radius: 15px;
     transition: height 0.2s ease;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
 }
@@ -30,6 +30,8 @@ body{
     background-color: #171717;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
     padding: 10px;
     cursor: pointer;
 }
